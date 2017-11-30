@@ -1,6 +1,12 @@
 # Another React Redux Starter
 
-Easilly start a react / redux app. React Router and Hot Loader included. Beng beng.
+Easilly start a react / redux app. React Router and Hot Loader included. Beng Beng.
+
+## How to use
+
+1. npm install
+2. npm start
+3. Enjoy
 
 ## Create React App
 
